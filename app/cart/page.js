@@ -1,5 +1,6 @@
 import { age, intro } from "./data.js"
 export default function Cart() {
+    let 장바구니 = ['Tomatoes', 'Pasta']
     return (
         <div>
             <p>{intro}</p>
